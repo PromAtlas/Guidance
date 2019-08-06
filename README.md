@@ -10,3 +10,5 @@ Download and unzip game.zip. All dependencies required to run the game are insid
   - Spacebar - Jump
   - Left-Shift - Run (When combined w/ any move key)
   - P - Pause
+  # Scripts Folder
+  This folder contains a collection of all the scripts used for the game. 

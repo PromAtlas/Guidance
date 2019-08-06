@@ -7,5 +7,6 @@ Download and unzip game.zip. All dependencies required to run the game are insid
   - S - Move Backward
   - A - Move Left
   - D - Move Right
+  - Spacebar - Jump
   - Left-Shift - Run (When combined w/ any move key)
   - P - Pause

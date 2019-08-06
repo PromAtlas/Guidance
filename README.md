@@ -5,7 +5,7 @@ Download and unzip game.zip. All dependencies required to run the game are insid
 # Controls
   - W - Move Forward
   - S - Move Backward
-  -  - Move Left
-  - - Move Right
+  - A - Move Left
+  - S- Move Right
   - Left-Shift - Run (When combined w/ any move key)
   - P - Pause

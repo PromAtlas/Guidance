@@ -1,7 +1,7 @@
 # Guidance
 First group project and first game project I've ever worked on. I was one of two lead programmers writing and handeling the scripts.
 # Downloading Instructions
-Download and unzip game.zip. All dependencies required to run the game are inside. Simply run Game&SimFinalProject.exe
+Download and unzip Game.zip. All dependencies required to run the game are inside. Simply run Game&SimFinalProject.exe
 # Controls
   - W - Move Forward
   - S - Move Backward
